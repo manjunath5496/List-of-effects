@@ -1,4 +1,4 @@
-
+<h2>List of Effects </h2>
 <ul>
 <li><a href="#A">A</a></li>
 <li><a href="#B">B</a></li>
